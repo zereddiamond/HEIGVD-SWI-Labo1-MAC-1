@@ -2,7 +2,7 @@
 
 [Échéance](#échéance)
 
-[Quelques pistes importantes](#quelques-pistes-importantes-avant-de-commencer-revenez-les-voir-vous-en-aurez-besoin-)
+[Quelques pistes importantes](#quelques-pistes-utiles-avant-de-commencer-)
 
 [Travail à réaliser](#travail-à-réaliser)
 
